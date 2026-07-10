@@ -17,3 +17,8 @@ output "web_2_public_ip" {
   description = "Public IP address of the second EC2 instance"
   value       = aws_instance.web_2.public_ip
 }
+
+output "web_security_group_id" {
+  description = "Security group ID used by the EC2 web servers"
+  value       = aws_security_group.web.id
+}
