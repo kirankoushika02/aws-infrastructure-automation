@@ -195,7 +195,7 @@ aws-infrastructure-automation/
 
 ### Terraform Remote State Backend Configuration
 
-![Terraform State Backend](screenshots/08-remote-terraform-state.png)
+![Terraform State Backend](screenshots/08-s3-remote-terraform-state.png)
 
 ### Terraform Plan - No Changes
 
