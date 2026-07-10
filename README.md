@@ -171,11 +171,11 @@ aws-infrastructure-automation/
 
 ### GitHub Actions Successful Runs
 
-![GitHub Actions Successful Runs](screenshots/02-github-actions-success-runs.png)
+![GitHub Actions Successful Runs](screenshots/02-github-actions-success-run.png)
 
 ### Code Change Triggering Automated Deployment
 
-![Code Change Proof](screenshots/03-github-code-change-proof.png)
+![Code Change Proof](screenshots/03-github-actions-deployment-steps.png)
 
 ### EC2 Instances Running
 
@@ -195,7 +195,7 @@ aws-infrastructure-automation/
 
 ### Terraform Remote State Backend Configuration
 
-![Terraform State Backend](screenshots/08-terraform-state-backend-config.png)
+![Terraform State Backend](screenshots/08-remote-terraform-state.png)
 
 ### Terraform Plan - No Changes
 
